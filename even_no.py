@@ -1,5 +1,5 @@
-n=24
+n=100
 if n%2==0:
-  print('EVEN')
+  print('EVEN_number')
 else:
-  print('ODD')
+  print('ODD_number')
